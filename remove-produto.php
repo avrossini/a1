@@ -8,3 +8,4 @@ $_SESSION["success"]="Produto removido com sucesso!";
 header("Location: produto-lista.php");
 die();
 include("footer.php")?>
+die();
